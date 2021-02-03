@@ -1,0 +1,11 @@
+#styled-div {
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    
+}
+
+p {
+    cursor: pointer;
+    font-weight: bold;
+}
