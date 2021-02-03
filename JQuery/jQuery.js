@@ -38,9 +38,9 @@ $(document).ready(function () {
 
 
   //Step 5:
-  $("body").append("<p class='p-class'Hello, my name is Reagan Bruce!</p>");
+  $("body").append('<p> Hello, my name is Reagan Bruce!</p>');
 
-  $(".p-class").click(function () {
+  $("p").click(function () {
     let colorR = Math.floor(Math.random() * 256);
     let colorG = Math.floor(Math.random() * 256);
     let colorB = Math.floor(Math.random() * 256);
