@@ -61,7 +61,7 @@ $(document).ready(function () {
 
   
   
-  //I have no idea why this is effecting the rest of the Elements on the page?????
+
   //Step 7:
   $("body").append('<button class="button-list">Click for a list of my friends!</button>');
   $("body").append("<ul></ul>");
